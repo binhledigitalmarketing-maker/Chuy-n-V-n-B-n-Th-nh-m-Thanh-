@@ -1,0 +1,8 @@
+{
+  "name": "Chuyển Văn Bản Thành Âm Thanh ",
+  "description": "Ứng dụng chuyển đổi văn bản thành âm thanh chân thực như người thật với đa dạng giọng đọc hot trend, biểu cảm sống động, tự động thêm nhịp thở và hiệu ứng âm thanh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
